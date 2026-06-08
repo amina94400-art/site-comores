@@ -50,7 +50,7 @@ p {
 }
 ul {
   text-align: center;
-  color: darkgreen;
+  color: darkgreen !important;
   list-style-position: inside;
   padding-left: 0;
 }
@@ -61,7 +61,7 @@ nav {
     padding: 10px;
 }
 nav a {
-    color: darkgreen;
+    color: darkgreen !important;
     text-decoration: none;
     font-weight: bold;
     font-size: 10px;
