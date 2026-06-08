@@ -48,9 +48,9 @@ p {
   opacity: 0.80;
   
 }
-ul li {
+ul {
   text-align: center;
-  color: black;
+  color: darkgreen;
   list-style-position: inside;
   padding-left: 0;
 }
@@ -61,11 +61,11 @@ nav {
     padding: 10px;
 }
 nav a {
-    color: black;
+    color: darkgreen;
     text-decoration: none;
     font-weight: bold;
     font-size: 10px;
 }
 nav a:hover {
-    color: blue;
+    color: seagreen;
 }
