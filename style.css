@@ -5,16 +5,16 @@ body {
   font-family: serif;
 }
 h1 {
-  color: midnightblue;
+  color: forestgreen;
   font-family: serif;
   text-align: center;
 }
 h2 {
-  color: midnightblue;
+  color: seagreen;
   text-align: center;
 }
 p {
-  color: black;
+  color: darkgreen;
   text-align: center;
   font-size: 20px;
 
