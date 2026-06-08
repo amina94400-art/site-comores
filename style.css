@@ -17,6 +17,7 @@ p {
   color: darkgreen;
   text-align: center;
   font-size: 20px;
+  border: 2px solid green;
 
 }
 .image-culture {
@@ -61,7 +62,7 @@ nav {
     padding: 10px;
 }
 nav a {
-    color: black !important;
+    color: darkgreen !important;
     text-decoration: none;
     font-weight: bold;
     font-size: 10px;
